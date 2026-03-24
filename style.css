@@ -3,7 +3,7 @@ h1{
 } 
 /*Estilo generalde la paguina*/
 body{
-    font-family:Arial;helvetica, sans-serif;
+    
     background: color #f4f4f4;
     margin:0;
     line-height: 1.6;
@@ -11,4 +11,47 @@ body{
 /*encabezado/*
 header{
 background-color:#2c3350;
+color:white;
+text-ling:center;
+padding:30px 20px;
 
+/menu de navegacion*/
+nav{
+    background-color:#344995;
+    text-align: enter;
+    padding:12px;
+
+}
+/*enlaces de menu*/
+nav{
+    color:white;
+    text-decoration:nome;
+}
+
+/*efecto al pasar el mause*/
+nav a:hover{
+    color:#f1e40f;
+}
+/*secciones*/
+section {
+background-color:white;
+margin:20px;
+padding:20px;
+width:80%;
+border-radius:8px;
+}
+
+/*imagene*/
+img{
+border-radius:10px;
+margin-top:10px;
+}
+
+/*pie de paguina*/
+footer{
+background: color #2c3e50;
+color:white;
+text-align:center;
+padding:10px;
+margin-top:20px;
+}

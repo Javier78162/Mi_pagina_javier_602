@@ -55,3 +55,21 @@ text-align:center;
 padding:10px;
 margin-top:20px;
 }
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: aqua;
+    color: white;
+    border:none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.15, background-coloe 0.35;
+
+}
+button:active{
+    transform: scale(0.95);
+    background-color: #27ae60;
+    
+
+}
+

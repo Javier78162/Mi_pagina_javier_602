@@ -5,5 +5,5 @@ funtion mostar mensaje (){
     setTimeout(c)=>{
         mensaje.style.opacity="1";
         mensaje.style.transform="translate Y(0)";
-    },50);
+    },50;
 }

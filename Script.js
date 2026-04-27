@@ -14,7 +14,7 @@ Scrip
 
 function mostrar_mensaje (){
      let mensaje=document.getElementById("mensaje");
-     mensaje.innerHTML ="🐾Cuida,proteje a los animales";
+     mensaje.innerHTML ="🐾Los animales deben de tener una vida digna";
      mensaje.style.display = "black";
 
   setTimeout (() => {

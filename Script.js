@@ -1,4 +1,4 @@
-scrip
+Scrip
 
  function da_click (){
      let mensaje=document.getElementById("sobre_mi");

@@ -1,25 +1,25 @@
 scrip
 
-function da_click (){
-    let mensaje=document.getElementById("sobre_mi");
-    mensaje.innerHTML ="🐾Cuida y proteje a los animales";
-    mensaje.style.display = "black";
+ function da_click (){
+     let mensaje=document.getElementById("sobre_mi");
+     mensaje.innerHTML ="🐾Cuida y proteje a los animales";
+     mensaje.style.display = "black";
 
- setTimeout (() => {
-    mensaje.style.opacity = "1";
-    mensaje.style.transform = "transformateY/(0)";
-  }, 50);
-}
+  setTimeout (() => {
+     mensaje.style.opacity = "1";
+     mensaje.style.transform = "transformateY/(0)";
+   }, 50);
+ }
  
 
 function mostrar_mensaje (){
-    let mensaje=document.getElementById("mensaje");
-    mensaje.innerHTML ="🐾Cuida,proteje a los animales";
-    mensaje.style.display = "black";
+     let mensaje=document.getElementById("mensaje");
+     mensaje.innerHTML ="🐾Cuida,proteje a los animales";
+     mensaje.style.display = "black";
 
- setTimeout (() => {
-    mensaje.style.opacity = "1";
-    mensaje.style.transform = "transformateY/(0)";
- }, 50);
-}
+  setTimeout (() => {
+     mensaje.style.opacity = "1";
+     mensaje.style.transform = "transformateY/(0)";
+  }, 50);
+ }
  

@@ -22,4 +22,6 @@ function mostrar_mensaje (){
      mensaje.style.transform = "transformateY/(0)";
   }, 50);
  }
- 
+ {
+   <body>("oscuro")</body>
+ }
